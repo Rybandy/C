@@ -1,0 +1,3 @@
+void wczytaj();
+
+void pierw(int a);
